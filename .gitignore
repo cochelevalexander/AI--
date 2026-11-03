@@ -1,0 +1,12 @@
+node_modules/
+.nuxt/
+.data/
+.output/
+.nitro/
+.cache/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.docker/
